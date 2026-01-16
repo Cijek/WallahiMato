@@ -1,0 +1,12 @@
+﻿Epic ID,Epic Name,User Story ID,User Story,Task ID,Task
+E1,Sensor Data & Alerts,US1,Receive real-time sensor data,T1,Integrate sensors
+E1,Sensor Data & Alerts,US1,Receive real-time sensor data,T2,Create API
+E1,Sensor Data & Alerts,US2,Generate alerts,T3,Define thresholds
+E1,Sensor Data & Alerts,US2,Generate alerts,T4,Create alerts
+E2,Responder Management,US3,Update responder status,T5,Create status UI
+E2,Responder Management,US4,View responder status,T6,Show responder list
+E3,Field Reporting,US5,Upload field reports,T7,Upload photos and notes
+E4,Maps & Navigation,US6,Navigate to incident,T8,Show GPS route
+E5,Resource Management,US7,Assign resources,T9,Create assignment UI
+E6,Offline & Sync,US8,Work offline,T10,Cache data
+E7,Reports,US9,Generate reports,T11,Create report
